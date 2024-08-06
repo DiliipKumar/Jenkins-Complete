@@ -1,5 +1,7 @@
 ### Install Jenkins.
 
+[Jenkins Installation Guide for Linux](https://www.jenkins.io/doc/book/installing/linux/)
+
 Pre-Requisites:
  - Java (JDK)
 
